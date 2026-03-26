@@ -1,0 +1,6 @@
+n1 =int (input("digite um numero:"))
+n2 =int (input("digite um numero:"))
+n3 =int (input("digite um numero:"))
+n4 =int (input("digite um numero:"))
+print (f'a soma total e:{n1 + n2 + n3 + n4 }')
+print (f'a produdo total e:{n1 * n2 * n3 * n4 }')
